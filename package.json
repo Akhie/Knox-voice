@@ -1,0 +1,28 @@
+{
+  "name": "knox-voice",
+  "version": "1.0.0",
+  "description": "Knox Voice - Desktop assistant overlay",
+  "main": "main.js",
+  "scripts": {
+    "dev:vue": "vite",
+    "dev:electron": "cross-env NODE_ENV=development electron .",
+    "dev": "concurrently \"npm run dev:vue\" \"npm run dev:electron\"",
+    "build:vue": "vite build",
+    "build": "npm run build:vue && electron-builder",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "concurrently": "^8.0.0",
+    "cross-env": "^7.0.0",
+    "electron": "^44.0.0",
+    "electron-builder": "^26.0.0",
+    "vite": "^5.0.0"
+  }
+}
