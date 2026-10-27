@@ -1,0 +1,12 @@
+{
+  "segments": [
+    {
+      "text": "Hello how are you",
+      "lang": "en"
+    },
+    {
+      "text": "안녕하세요. 어떻게 지내세요",
+      "lang": "ko"
+    }
+  ]
+}

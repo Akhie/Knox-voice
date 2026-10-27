@@ -1,0 +1,7 @@
+[en] Welcome to the custom text to speech test.
+[ko] 맞춤형 텍스트 음성 변환 테스트에 오신 것을 환영합니다.
+[en] This file uses the tagged text format.
+[ko] 이 파일은 태그가 지정된 텍스트 형식을 사용합니다.
+This line automatically inherits Korean.
+[en] Switching back to English is just a tag away.
+[ko] 태그 하나로 한국어로 다시 전환할 수 있습니다.

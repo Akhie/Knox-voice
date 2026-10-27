@@ -1,0 +1,20 @@
+{
+  "segments": [
+    {
+      "text": "Hello, welcome to our application. This text is in English.",
+      "lang": "en"
+    },
+    {
+      "text": "안녕하세요, 저희 애플리케이션에 오신 것을 환영합니다. 이 텍스트는 한국어입니다.",
+      "lang": "ko"
+    },
+    {
+      "text": "This is a bilingual demonstration. Let's switch between languages seamlessly.",
+      "lang": "en"
+    },
+    {
+      "text": "한국어와 영어를 번갈아 가며 테스트합니다.",
+      "lang": "ko"
+    }
+  ]
+}

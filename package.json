@@ -1,0 +1,13 @@
+{
+  "name": "tts-module",
+  "version": "1.0.0",
+  "description": "Text-to-Speech module for Electron app — supports Korean ↔ English using free APIs",
+  "main": "src/tts-module.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "example": "node example/run-example.js",
+    "test:input": "node test/test-input-parser.js"
+  },
+  "keywords": ["tts", "text-to-speech", "korean", "english", "electron"],
+  "license": "MIT"
+}

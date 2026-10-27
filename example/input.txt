@@ -1,0 +1,6 @@
+[en] Hello, this is an English sentence.
+[ko] 안녕하세요, 이것은 한국어 문장입니다.
+[en] The weather is nice today.
+[ko] 오늘 날씨가 좋네요. 산책하기 좋은 날씨입니다.
+Now let's talk about technology.
+[ko] 기술에 대해 이야기해 봅시다.

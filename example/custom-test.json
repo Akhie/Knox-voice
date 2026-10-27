@@ -1,0 +1,28 @@
+{
+  "segments": [
+    {
+      "text": "Good morning! Today is a beautiful day.",
+      "lang": "en"
+    },
+    {
+      "text": "좋은 아침입니다! 오늘은 정말 아름다운 날이에요.",
+      "lang": "ko"
+    },
+    {
+      "text": "Let's go for a walk in the park.",
+      "lang": "en"
+    },
+    {
+      "text": "공원에서 산책하러 가요.",
+      "lang": "ko"
+    },
+    {
+      "text": "Thank you for using the text to speech module.",
+      "lang": "en"
+    },
+    {
+      "text": "텍스트 음성 변환 모듈을 이용해 주셔서 감사합니다.",
+      "lang": "ko"
+    }
+  ]
+}
